@@ -1,0 +1,17 @@
+{
+    "name": "pantheion/hashing",
+    "description": "Hash stuff",
+    "authors": [
+        {
+            "name": "Pedro Miguel",
+            "email": "pedro.aos19@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pantheion\\Hashing\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
